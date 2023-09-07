@@ -1,16 +1,14 @@
-### Hi there 👋
+### Howdy 🤠
+Backend software engineer just trying to solve problems and chew bubblegum. And I'm all out of bubble gum. 
 
-<!--
-**arkuhn/arkuhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👔 Working with:
+- Python
+- Thrift
+- Flask
+- MySQL
+- AWS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 Interested in:
+- Developer Experience
+- Product Engineering
+- Helping people out.
