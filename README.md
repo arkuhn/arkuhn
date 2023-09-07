@@ -8,7 +8,8 @@ Backend software engineer just trying to solve problems and chew bubblegum. And 
 - MySQL
 - AWS
 
-🤔 Interested in:
-- Developer Experience
+💛 Passionate About:
+- Helping people out
 - Product Engineering
-- Helping people out.
+- Developer Experience
+
