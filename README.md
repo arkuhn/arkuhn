@@ -3,7 +3,7 @@ Backend software engineer just trying to solve problems and chew bubblegum. And 
 
  👔 Working with:
 - Python
-- Thrift
+- Thrift/RPC
 - Flask
 - MySQL
 - AWS
