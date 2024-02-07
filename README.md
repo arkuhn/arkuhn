@@ -1,4 +1,4 @@
-### Howdy 🤠
+### Howdy!
 Backend software engineer just trying to solve problems and chew bubblegum. And I'm all out of bubble gum. 
 
  👔 Working with:
@@ -7,9 +7,10 @@ Backend software engineer just trying to solve problems and chew bubblegum. And 
 - Flask
 - MySQL
 - AWS
+- React / Typescript 
 
 💛 Passionate About:
 - Helping people out
-- Product Engineering
+- Outcome-driven product development
 - Developer Experience
 
