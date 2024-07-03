@@ -1,13 +1,12 @@
 ### Howdy!
-Backend software engineer just trying to solve problems and chew bubblegum. And I'm all out of bubble gum. 
+Software engineer just trying to solve problems and chew bubblegum. And I'm all out of bubble gum. 
 
  👔 Working with:
-- Python
-- Thrift/RPC
-- Flask
-- MySQL
+- Python, Flask, FastAPI
+- Postgres
 - AWS
-- React / Typescript 
+- React
+- Typescript 
 
 💛 Passionate About:
 - Helping people out
